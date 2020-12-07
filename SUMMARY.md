@@ -1,0 +1,30 @@
+# Table of contents
+
+* [Magic8 - Entertainment & Utility](README.md)
+
+## Commands & Features <a id="commands"></a>
+
+* [👋 Introduction](commands/info.md)
+* [🎉 Entertainment Commands](commands/entertainment.md)
+* [🕹️ Minigames](commands/minigames.md)
+* [🚪 Minecraft Commands](commands/minecraft.md)
+* [😍 Reaction Commands](commands/reactions.md)
+* [🎀 Miscellaneous Commands](commands/miscellaneous.md)
+* [📚 Information Commands](commands/information.md)
+* [👤 User Commands](commands/user.md)
+* [⚙️ Utility Commands](commands/utilities.md)
+* [👮 Administrator Commands](commands/administrator/README.md)
+  * [⚙️Advanced Settings](commands/administrator/settings.md)
+
+## Information <a id="info"></a>
+
+* [Premium Packages](info/premium.md)
+* [Languages](info/languages.md)
+* [Change Log - December 2020](info/updates/README.md)
+  * [Change Log - November 2020](info/updates/nov2020.md)
+  * [Change Log - October 2020](info/updates/oct2020.md)
+* [Advertisements FAQ](info/ads.md)
+* [Contact Support](info/contact.md)
+* [Progress Check](info/progress.md)
+* [Terms & Conditions](info/terms.md)
+
