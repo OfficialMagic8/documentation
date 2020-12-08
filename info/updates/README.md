@@ -8,16 +8,18 @@ description: >-
 
 The following list of updates are from the month of `December 2020`. To view historic updates, open the **Change Log** tab on the left.
 
-## 12/4/2020 - Live
+## 12/5/2020 - Waiting For Release
 
 **New**
 
 * Help menu shows disabled commands warning for non-administrators
 * Translations are now in progress for documentation
-* Imposter command
+* `imposter` command
 
 **Changes**
 
+* Fixed an issue with the no-permission message for `clear`
+* Fixed an issue with `mcskin` error messages
 * Bug fixes/improvements
 
 ## 12/3/2020 - Live
