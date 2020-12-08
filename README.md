@@ -37,4 +37,3 @@ These permissions can be given to Magic8, or for the category selected for [**Au
 
 * **Manage Channel** - Required for Auto Voice Channels
 * **Move Members** - Required for Auto Voice Channels
-
