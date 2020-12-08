@@ -20,9 +20,6 @@
 
 * [Premium Packages](info/premium.md)
 * [Languages](info/languages.md)
-* [Change Log - December 2020](info/updates/README.md)
-  * [Change Log - November 2020](info/updates/nov2020.md)
-  * [Change Log - October 2020](info/updates/oct2020.md)
 * [Advertisements FAQ](info/ads.md)
 * [Contact Support](info/contact.md)
 * [Progress Check](info/progress.md)
