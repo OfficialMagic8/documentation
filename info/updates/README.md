@@ -8,7 +8,7 @@ description: >-
 
 The following list of updates are from the month of `December 2020`. To view historic updates, open the **Change Log** tab on the left.
 
-## 12/5/2020 - Waiting For Release
+## 12/7/2020 - Waiting For Official Release
 
 **New**
 

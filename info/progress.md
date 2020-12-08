@@ -24,9 +24,9 @@ description: View the progress of the developers on Magic8.
 
 {% hint style="danger" %}
 **Not Started**  
-- Fix a few settings  
+- Fix a few unused settings  
 ****- More statistics to view for `hypixel` command  
-- Improve Looking For Group  
+- Massive Improvement/Optimization of Looking For Group   
 - Fix random bugs with `akinator`  
 - Dashboard to manage bot  
 - Option to answer using reactions for `trivia`  
