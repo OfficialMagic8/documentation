@@ -16,11 +16,12 @@ The reason for the following features to be premium are because of the days spen
 * `Premium I` Status In Server Info Command
 * Special role in support server
 * Promotion in our sponsors channel
-* 2x -&gt; 3x Auto Voice Channels
-* 2x -&gt; 5x Restricted Channels Per Category
-* 10x -&gt; 20x Anti-Ping Users
-* 5x -&gt; 10x Toggled Commands
-* 20x -&gt; 50x Custom Magic 8 Ball Responses
+* 2x &gt; 3x Auto Voice Channels
+* 2x &gt; 3x Restricted Channels Per Category
+* 3x &gt; 5x Max Lists for List Manager
+* 10x &gt; 20x Anti-Ping Users
+* 5x &gt; 10x Toggled Commands
+* 20x &gt; 50x Custom Magic 8 Ball Responses
 * No advertisements
 * Looking For Group System
 * Custom language file
@@ -34,11 +35,12 @@ If you would like to switch your premium server, pay **$0.99** per switch with n
 * `Premium II` Status In Server Info Command
 * Special role in support server
 * Your own advertisement on Magic8
-* 3x -&gt; 5x Auto Voice Channels
-* 5x -&gt; 20x Restricted Channels Per Category
-* 10x -&gt; 30x Toggled Commands
-* 20x -&gt; 50x Anti-Ping Users
-* 50x -&gt; 100x Custom Magic 8 Ball Responses
+* 3x &gt; 5x Auto Voice Channels
+* 3x &gt; 5x Restricted Channels Per Category
+* 5x &gt; 10x Max Lists for List Manager
+* 10x &gt; 30x Toggled Commands
+* 20x &gt; 50x Anti-Ping Users
+* 50x &gt; 100x Custom Magic 8 Ball Responses
 * No advertisements
 * Looking For Group System With Adjustable Cooldown
 * Custom language file

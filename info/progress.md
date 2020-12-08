@@ -19,7 +19,8 @@ description: View the progress of the developers on Magic8.
 - Update other language files to match changes in [en.json](https://github.com/OfficialMagic8/languages/blob/master/languages/en.json)  
 - Tidying up code and error catching  
 - Find translators to help edit/create translations for Magic8 or Documentation  
-- Work on translating using [DeepL](https://www.deepl.com/en/translator)
+- Work on translating using [DeepL](https://www.deepl.com/en/translator)  
+- New feature for Auto Voice Channels
 {% endhint %}
 
 {% hint style="danger" %}

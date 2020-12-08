@@ -8,19 +8,23 @@ description: >-
 
 The following list of updates are from the month of `December 2020`. To view historic updates, open the **Change Log** tab on the left.
 
-## 12/7/2020 - Waiting For Official Release
+## 12/8/2020 - Waiting For Release
 
 **New**
 
 * Help menu shows disabled commands warning for non-administrators
 * Translations are now in progress for documentation
 * `imposter` command
+* Developer tools to make updating easier
 
 **Changes**
 
 * Fixed an issue with the no-permission message for `clear`
 * Fixed an issue with `mcskin` error messages
-* Bug fixes/improvements
+* Updated both Premium Package perks
+* Fixed an issue with Auto Voice Channels
+* Updated error messages
+* Major bug fixes/improvements
 
 ## 12/3/2020 - Live
 
