@@ -4,7 +4,7 @@ description: Verified Discord Bot Supporting Over 500 Servers
 
 # Magic8 - Entertainment & Utility
 
-\*\*\*\*[**English**](https://docs.magic8.xyz/v/en/) **-** [**Español**](https://docs.magic8.xyz/v/es/) **-** [**Français**](https://docs.magic8.xyz/v/fr/)\*\*\*\*
+[**English**](https://docs.magic8.xyz/v/en/) **-** [**Español**](https://docs.magic8.xyz/v/es/) **-** [**Français**](https://docs.magic8.xyz/v/fr/)
 
 {% hint style="warning" %}
 We are in need of translators! Magic8 can support **any** language, come help out!
@@ -37,3 +37,4 @@ These permissions can be given to Magic8, or for the category selected for [**Au
 
 * **Manage Channel** - Required for Auto Voice Channels
 * **Move Members** - Required for Auto Voice Channels
+

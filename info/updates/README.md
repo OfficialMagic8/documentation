@@ -24,6 +24,7 @@ The following list of updates are from the month of `December 2020`. To view his
 * Updated both Premium Package perks
 * Fixed an issue with Auto Voice Channels
 * Updated error messages
+* Moved `christmas` and `bigemoji` to Miscellaneous category
 * Major bug fixes/improvements
 
 ## 12/3/2020 - Live
