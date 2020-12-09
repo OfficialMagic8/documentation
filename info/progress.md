@@ -20,7 +20,7 @@ description: View the progress of the developers on Magic8.
 - Tidying up code and error catching  
 - Find translators to help edit/create translations for Magic8 or Documentation  
 - Work on translating using [DeepL](https://www.deepl.com/en/translator)  
-- New feature for Auto Voice Channels
+- New features/settings for Auto Voice Channels
 {% endhint %}
 
 {% hint style="danger" %}
@@ -29,7 +29,7 @@ description: View the progress of the developers on Magic8.
 ****- More statistics to view for `hypixel` command  
 - Massive Improvement/Optimization of Looking For Group   
 - Fix random bugs with `akinator`  
-- Dashboard to manage bot  
+- Dashboard to manage Magic8  
 - Option to answer using reactions for `trivia`  
 - Chess game
 {% endhint %}

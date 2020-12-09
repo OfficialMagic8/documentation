@@ -33,7 +33,7 @@ Only the _italicized_ permissions are completely required at all times. All othe
 * _**Read/Send Messages**_ - Required at all times
 * _**Use External Emojis**_ - Required for Magic8's custom emojis
 
-These permissions can be given to Magic8, or for the category selected for [**Auto Voice Channels**](commands/administrator/#auto-voice-channels)\*\*\*\*
+These permissions can be given to Magic8, or for the category selected for [**Auto Voice Channels**](commands/administrator/#auto-voice-channels)
 
 * **Manage Channel** - Required for Auto Voice Channels
 * **Move Members** - Required for Auto Voice Channels
