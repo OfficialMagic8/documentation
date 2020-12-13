@@ -8,6 +8,20 @@ description: >-
 
 The following list of updates are from the month of `December 2020`. To view historic updates, open the **Change Log** tab on the left.
 
+## 12/13/2020 - Live
+
+**New**
+
+* Statuses for Magic8
+* Preparation for languages website
+
+**Changes**
+
+* Removed aliases for `mcskin` and fixed some issues
+* `overwatch` was optimized
+* `listmanager` add items menu was fixed
+* Other bug fixes/improvements
+
 ## 12/8/2020 - Live
 
 **New**
