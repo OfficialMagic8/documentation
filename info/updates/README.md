@@ -8,6 +8,18 @@ description: >-
 
 The following list of updates are from the month of `December 2020`. To view historic updates, open the **Change Log** tab on the left.
 
+## 12/15/2020 - Waiting For Release
+
+**New**
+
+* Nothing today
+
+**Changes**
+
+* Moved prefix command to its own - `s prefix` to`prefix`
+* Optimizations for Auto Voice Channels + `reset` command to refresh the generated channels
+* Fixed issues with `listmanager`
+
 ## 12/13/2020 - Live
 
 **New**
