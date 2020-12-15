@@ -13,12 +13,14 @@ The following list of updates are from the month of `December 2020`. To view his
 **New**
 
 * Nothing today
+* [Translations update](https://github.com/OfficialMagic8/languages/commits)
 
 **Changes**
 
 * Moved prefix command to its own - `s prefix` to`prefix`
 * Optimizations for Auto Voice Channels + `reset` command to refresh the generated channels
 * Fixed issues with `listmanager`
+* Bug fixes/improvements
 
 ## 12/13/2020 - Live
 
