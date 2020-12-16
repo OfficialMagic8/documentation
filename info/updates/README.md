@@ -8,12 +8,13 @@ description: >-
 
 The following list of updates are from the month of `December 2020`. To view historic updates, open the **Change Log** tab on the left.
 
-## 12/15/2020 - Waiting For Release
+## 12/15/2020 - Live
 
 **New**
 
 * Nothing today
 * [Translations update](https://github.com/OfficialMagic8/languages/commits)
+* Customize generated voice channel names `av name <type> <name>`
 
 **Changes**
 
