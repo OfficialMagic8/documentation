@@ -26,7 +26,7 @@ The reason for the following features to be premium are because of the days spen
 * Looking For Group System
 * Custom language file
 
-If you would like to switch your premium server, pay **$0.99** per switch with no additional cost. 
+If you would like to switch your premium server, simply contact support, free of charge. 
 
 ## Triple Package 💎 $8.99 \(one-time forever\)
 
@@ -45,7 +45,7 @@ If you would like to switch your premium server, pay **$0.99** per switch with n
 * Looking For Group System With Adjustable Cooldown
 * Custom language file
 
-If you would like to switch your premium server\(s\), pay **$1.49** per switch with no additional cost. 
+If you would like to switch your premium server, simply contact support, free of charge.
 
 ## **Store:** [https://donatebot.io/checkout/610816275580583936](https://donatebot.io/checkout/610816275580583936)
 
