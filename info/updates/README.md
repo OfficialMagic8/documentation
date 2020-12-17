@@ -8,6 +8,19 @@ description: >-
 
 The following list of updates are from the month of `December 2020`. To view historic updates, open the **Change Log** tab on the left.
 
+## 12/17/2020 - Waiting For Release
+
+**New**
+
+*  Nothing today
+
+**Changes**
+
+* Fixed a display issue with `language`
+* Updated invite link, was missing `Move Members` for Auto Voice Channels
+* Updated `popular` to give the link to Statcord
+* Bug fixes/improvements
+
 ## 12/15/2020 - Live
 
 **New**
