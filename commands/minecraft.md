@@ -7,7 +7,7 @@ description: Check Minecraft players' profiles or other Minecraft related comman
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Command</th>
       <th style="text-align:left">Usage</th>
       <th style="text-align:left">Notes</th>
     </tr>
@@ -16,12 +16,20 @@ description: Check Minecraft players' profiles or other Minecraft related comman
     <tr>
       <td style="text-align:left">cape</td>
       <td style="text-align:left">&lt;MC name&gt;</td>
-      <td style="text-align:left"><b>Description:</b> View a player&apos;s cape</td>
+      <td style="text-align:left">
+        <p><b>Aliases:</b>  <code>capa</code>
+        </p>
+        <p><b>Description:</b> View a player&apos;s cape</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">hypixel</td>
       <td style="text-align:left">&lt;MC name&gt;</td>
-      <td style="text-align:left"><b>Description:</b> View a player&apos;s Hypixel stats</td>
+      <td style="text-align:left">
+        <p><b>Aliases: </b><code>hyp</code>
+        </p>
+        <p><b>Description:</b> View a player&apos;s Hypixel stats</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">mcachievement</td>
@@ -36,7 +44,7 @@ description: Check Minecraft players' profiles or other Minecraft related comman
       <td style="text-align:left">mcserver*</td>
       <td style="text-align:left">[help | set | remove]</td>
       <td style="text-align:left">
-        <p><b>Aliases:</b>  <code>status</code>
+        <p><b>Aliases:</b>  <code>mcstatus, status</code>
         </p>
         <p><b>Description:</b> View the status of a minecraft server</p>
       </td>
@@ -45,7 +53,7 @@ description: Check Minecraft players' profiles or other Minecraft related comman
       <td style="text-align:left">mcskin</td>
       <td style="text-align:left">&lt;MC name&gt;</td>
       <td style="text-align:left">
-        <p><b>Aliases:</b>  <code>mcs</code>, <code>skin</code>
+        <p><b>Aliases:</b>  <code>mcs, skin</code>
         </p>
         <p><b>Description:</b> View a player&apos;s skin</p>
       </td>

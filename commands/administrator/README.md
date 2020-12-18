@@ -18,15 +18,15 @@ It is actually impossible to prevent a user from pinging another. This system si
 
 **Base Command:** `antiping` or `ap` Anti-Ping Settings Menu
 
-| Sub-Command | Notes |
-| :--- | :--- |
-| adduser | Disable Pings For A User By ID Or @mention |
-| removeuser | Re-enable Pings For A User By ID Or @mention |
-| message | Ping Warning Message. Placeholder: {USER} |
-| addrole | Add A Bypass Role By ID Or @mention |
-| removerole | Remove A Bypass Role By ID Or @mention |
-| roles | View Current Bypass Roles |
-| users | View Current Anti-Ping Users |
+| Sub-Command | Usage | Notes |
+| :--- | :--- | :--- |
+| adduser | &lt;user&gt; | Disable Pings For A User By ID Or @mention |
+| removeuser | &lt;user&gt; | Re-enable Pings For A User By ID Or @mention |
+| message | &lt;message&gt; | Ping Warning Message. Placeholder: {USER} |
+| addrole | &lt;role&gt; | Add A Bypass Role By ID Or @mention |
+| removerole | &lt;roles&gt; | Remove A Bypass Role By ID Or @mention |
+| roles |  | View Current Bypass Roles |
+| users |  | View Current Anti-Ping Users |
 
 ## Auto Voice Channels
 
@@ -38,8 +38,10 @@ Auto Voice Channels created limited user voice channels for gamers looking for g
 
 | Sub-Command | Usage | Information |
 | :--- | :--- | :--- |
-| create | &lt;duo/trio/squad&gt; | Create An Auto Voice Channel |
+| create | &lt;duo\|trio\|squad&gt; | Create An Auto Voice Channel |
 | delete | &lt;channel ID&gt; | Delete An Auto Voice Channel |
+| reset |  | Delete generated channels and number IDs |
+| name | &lt;duo\|trio\|squad&gt; | Set the name of a channel type |
 | category | &lt;category ID&gt; | Set Category For Auto Voice Channels |
 | cooldown | &lt;5-300 seconds&gt; | Joining/Leaving Auto Voice Channels Delay |
 | info |  | Auto Voice Channel Settings Information |
@@ -63,20 +65,20 @@ Magic8 pulls almost every message sent from a GitHub repository. Most languages 
 | info | &lt;language abbreviation&gt; | View specific information of a language |
 | list | \[page number\] | View all languages |
 
-## Settings
+## Advanced Settings
 
-Click the commands below to be taken to further detail if the menu's in Discord do not help you enough!
+Click the commands below to be taken to further detail if the menu in Discord did not help you enough!
 
 **Base Command:** `settings` or `s`
 
 | Sub-Command | Information |
 | :--- | :--- |
-| 8ball | Magic 8 Ball Settings |
-| media | Server Media Settings |
-| lfg | Looking For Group Settings |
+| 8ball | [Magic 8 Ball Settings](settings.md#magic-8-ball-settings) |
+| media | [Server Media Settings](settings.md#server-media-settings) |
+| lfg | [Looking For Group Settings](settings.md#looking-for-group-settings) |
 | prefix | Custom Prefix Settings |
-| toggle | Enable or Disable Commands |
-| toggled | View Toggled Commands |
+| toggle | [Enable or Disable Commands](settings.md#toggled-command-settigns) |
+| toggled | [View Toggled Commands](settings.md#toggled-command-settigns) |
 | funchannel | Restrict Fun Commands to Channels |
 | minigamechannel | Restrict Minigames to Channels |
 | miscellaneouschannel | Restrict Miscellaneous Commands to Channels |
