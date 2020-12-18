@@ -1,7 +1,7 @@
 ---
 description: >-
-  Updates will be posted here almost every day. Updates become Live usually
-  between 6-12 PM EST during the week. On weekends they can be as early as noon.
+  Updates will be released almost every day. Updates become Live usually between
+  6-12 PM EST during the week. On weekends they can be as early as noon.
 ---
 
 # Change Log - December 2020
@@ -12,11 +12,14 @@ The following list of updates are from the month of `December 2020`. To view his
 
 **New**
 
-*  Nothing today
+* Command category URL in help menu when checking a command
+* Command info menu updated
 
 **Changes**
 
 * Fixed a display issue with `language`
+* Fixed a major issue with some settings not loading
+* Fixed the author's message for `clear` not deleting
 * Updated invite link, was missing `Move Members` for Auto Voice Channels
 * Updated `popular` to give the link to Statcord
 * Bug fixes/improvements
