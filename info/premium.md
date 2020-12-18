@@ -49,5 +49,5 @@ If you would like to switch your premium server, simply contact support, free of
 
 ## **Store:** [https://donatebot.io/checkout/610816275580583936](https://donatebot.io/checkout/610816275580583936)
 
-_When you purchase a package, please contact @Fyrlex\#2740 on Discord to make your server\(s\) premium._
+_When you purchase a package, please contact **Fyrlex\#2740** on Discord to make your server\(s\) premium._
 
