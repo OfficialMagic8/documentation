@@ -8,6 +8,18 @@ description: >-
 
 The following list of updates are from the month of `December 2020`. To view historic updates, open the **Change Log** tab on the left.
 
+## 12/18/2020 - Waiting For Release
+
+**New**
+
+* `slowmode` - set a custom slow mode in any channel \(it can't be done in channel settings!\)
+* Statuses for Magic8
+
+**Changes**
+
+* Typos and formatting with some messages
+* Bug fixes/improvements
+
 ## 12/17/2020 - Live
 
 **New**

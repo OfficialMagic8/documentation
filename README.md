@@ -38,3 +38,10 @@ These permissions can be given to Magic8, or for the category selected for [**Au
 * **Manage Channel** - Required for Auto Voice Channels
 * **Move Members** - Required for Auto Voice Channels
 
+## Unique Functionality
+
+* 20+ languages, open sourced
+* No cooldowns on any command
+* Restrict commands categories to specific channels
+* Enable or disable any command
+
