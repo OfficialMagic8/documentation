@@ -19,7 +19,7 @@ The Magic8 Discord Bot \("bot"\) is owned and developed by Fyrlex\#2740 and Alon
 
 ## Privacy
 
-We collect and store guild \(server\) data on Magic8 for settings and to monitor your usage explicitly of Magic8. Your data will not be given to any third-party service. You may request your data at any time by contacting Fyrlex\#2740 on Discord.
+We collect and store guild \(server\) data \(including the name and ID\), on Magic8 for settings and to monitor your usage of commands explicitly from Magic8. Most [settings](../commands/administrator/) have a default value and _any_ updated settings are stored in order to save your preferences \(language, prefix etc.\) for Magic8. Your data is only used in your server but we may check it at any time. Your data will not be given to any third-party service. You may request to view or delete your data at any time by contacting Fyrlex\#2740 on Discord.
 
 #### Mincraft Server IP/Host Feature
 

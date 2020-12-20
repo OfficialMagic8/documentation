@@ -1,14 +1,15 @@
 ---
 description: >-
   Updates will be released almost every day. Updates become Live usually between
-  6-12 PM EST during the week. On weekends they can be as early as noon.
+  6 PM - 12 AM EST during the week. On weekends they can be as early as noon and
+  as late as 2 AM EST.
 ---
 
 # Change Log - December 2020
 
 The following list of updates are from the month of `December 2020`. To view historic updates, open the **Change Log** tab on the left.
 
-## 12/18/2020 - Waiting For Release
+## 12/20/2020 - Live
 
 **New**
 
@@ -17,6 +18,7 @@ The following list of updates are from the month of `December 2020`. To view his
 
 **Changes**
 
+* Advertisements delete after 60 seconds
 * Typos and formatting with some messages
 * Bug fixes/improvements
 
