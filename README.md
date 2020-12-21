@@ -1,5 +1,5 @@
 ---
-description: El Bot de Discord Verificada soporta más de 500 Servidores
+description: El Bot de Discord Verificada soporta más de 650 Servidores
 ---
 
 # Magic8 - Entretenimiento & Utilidad
