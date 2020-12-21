@@ -9,6 +9,18 @@ description: >-
 
 The following list of updates are from the month of `December 2020`. To view historic updates, open the **Change Log** tab on the left.
 
+## 12/21/2020 - Waiting For Release
+
+**New**
+
+* All settings/customizations now only require the Manage Server permission
+* Preparation for a stats website
+
+**Changes**
+
+* Updated some command descriptions
+* Major bug fixed with certain menus and deleting lists for `listmanager`
+
 ## 12/20/2020 - Live
 
 **New**

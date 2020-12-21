@@ -4,7 +4,7 @@ description: A short introduction on how to understand the Magic8 Documentation
 
 # 👋 Introduction
 
-In the following articles, you will be given the command, usage, aliases and a brief description. When encountering `<>` or `[]`, do not actually type those characters. The `<>` means **required** and `[]` means **optional**. Any time you see a word like `this`, it is usually referring to a command or alias. If you see `|` between two or more words, it means those are your options.
+In the following articles, you will be given the command, usage, aliases and a brief description. When encountering `<>` or `[]`, do not actually type those characters. The `<>` means **required** and `[]` means **optional**. Any time you see a word like `this`, it is usually referring to a command or alias. If you see `|` between two or more words, it means those are your options. If an option is inside `""`, it an actual option that can be used.
 
 {% hint style="info" %}
 To view specific command information, type`m!help <command>` to receive a small help menu of the command.

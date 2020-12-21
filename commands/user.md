@@ -13,7 +13,7 @@ This whole category can be restricted to up to **two** channels for free. Check 
     <tr>
       <th style="text-align:left">Command</th>
       <th style="text-align:left">Usage</th>
-      <th style="text-align:left">Notes</th>
+      <th style="text-align:left">Information</th>
     </tr>
   </thead>
   <tbody>
@@ -27,12 +27,26 @@ This whole category can be restricted to up to **two** channels for free. Check 
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">lookingforgroup</td>
+      <td style="text-align:left">[ &quot;list&quot; ]</td>
+      <td style="text-align:left">
+        <p><b>Aliases:</b>  <code>lfg</code>
+        </p>
+        <p><b>Description:</b> Give yourself a role that will automatically remove
+          after time</p>
+        <p><b>Settings:</b>  <a href="administrator/settings.md#looking-for-group-settings">Looking For Group Settings</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">media</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
         <p><b>Aliases:</b>  <code>urls, links, website</code>
         </p>
-        <p><b>Description:</b> View the server&apos;s media (if set)</p>
+        <p><b>Description:</b> View the server&apos;s media</p>
+        <p><b>Settings:</b>  <a href="administrator/settings.md#server-media-settings">Server Media Settings</a>
+        </p>
       </td>
     </tr>
     <tr>

@@ -13,7 +13,7 @@ This whole category can be restricted to up to **two** channels for free. Check 
     <tr>
       <th style="text-align:left">Command</th>
       <th style="text-align:left">Usage</th>
-      <th style="text-align:left">Notes</th>
+      <th style="text-align:left">Information</th>
     </tr>
   </thead>
   <tbody>
@@ -33,7 +33,7 @@ This whole category can be restricted to up to **two** channels for free. Check 
       <td style="text-align:left">
         <p><b>Aliases:</b>  <code>aki</code>
         </p>
-        <p><b>Description:</b> Based off Akinator Computer Game</p>
+        <p><b>Description:</b> Play Akinator in Discord</p>
       </td>
     </tr>
     <tr>
