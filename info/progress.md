@@ -9,7 +9,8 @@ description: View the progress of the developers on Magic8.
 - Multiple Language Support \([GitHub](https://github.com/OfficialMagic8/Languages)\)  
 - Trivia Upgrade  
 - Bot listing pages update \([top.gg](https://top.gg/bot/484148705507934208)\)  
-- Update `mcserver` status page
+- Update `mcserver` status page  
+- New features/settings for Auto Voice Channels
 {% endhint %}
 
 {% hint style="info" %}
@@ -20,7 +21,7 @@ description: View the progress of the developers on Magic8.
 - Tidying up code and error catching  
 - Find translators to help edit/create translations for Magic8 or Documentation  
 - Work on translating using [DeepL](https://www.deepl.com/en/translator)  
-- New features/settings for Auto Voice Channels
+- Massive Improvement/Optimization of Looking For Group
 {% endhint %}
 
 {% hint style="danger" %}
@@ -28,7 +29,6 @@ description: View the progress of the developers on Magic8.
 - Automatic vote rewards  
 ****- Fix a few unused settings  
 ****- More statistics to view for `hypixel` command  
-- Massive Improvement/Optimization of Looking For Group   
 - Fix random bugs with `akinator`  
 - Dashboard to manage Magic8  
 - Option to answer using reactions for `trivia`  

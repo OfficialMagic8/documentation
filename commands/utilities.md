@@ -9,7 +9,7 @@ description: Tools that some users and administrators can use.
     <tr>
       <th style="text-align:left">Command</th>
       <th style="text-align:left">Usage</th>
-      <th style="text-align:left">Notes</th>
+      <th style="text-align:left">Information</th>
     </tr>
   </thead>
   <tbody>

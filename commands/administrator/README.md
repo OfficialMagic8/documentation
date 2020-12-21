@@ -18,7 +18,7 @@ It is actually impossible to prevent a user from pinging another. This system si
 
 **Base Command:** `antiping` or `ap` Anti-Ping Settings Menu
 
-| Sub-Command | Usage | Notes |
+| Sub-Command | Usage | Information |
 | :--- | :--- | :--- |
 | adduser | &lt;user&gt; | Disable Pings For A User By ID Or @mention |
 | removeuser | &lt;user&gt; | Re-enable Pings For A User By ID Or @mention |
@@ -65,6 +65,12 @@ Magic8 pulls almost every message sent from a GitHub repository. Most languages 
 | info | &lt;language abbreviation&gt; | View specific information of a language |
 | list | \[page number\] | View all languages |
 
+## Prefix Settings
+
+The prefix can be set to anything desired, there is no limit on the length of it, just make sure that users are able to easily use it. @Magic8 will always be a working prefix. Simply run the command below and write a prefix afterwards. Anything after a space will not be saved!
+
+**Base Command:** `prefix` or `pf`
+
 ## Advanced Settings
 
 Click the commands below to be taken to further detail if the menu in Discord did not help you enough!
@@ -79,8 +85,8 @@ Click the commands below to be taken to further detail if the menu in Discord di
 | prefix | Custom Prefix Settings |
 | toggle | [Enable or Disable Commands](settings.md#toggled-command-settigns) |
 | toggled | [View Toggled Commands](settings.md#toggled-command-settigns) |
-| funchannel | Restrict Fun Commands to Channels |
-| minigamechannel | Restrict Minigames to Channels |
-| miscellaneouschannel | Restrict Miscellaneous Commands to Channels |
-| reactionchannel | Restrict Reaction Commands to Channels |
+| funchannel | [Restrict Fun Commands to Channels](settings.md#fun-commands-channel-settings) |
+| minigamechannel | [Restrict Minigames to Channels](settings.md#minigame-channel-settings) |
+| miscellaneouschannel | [Restrict Miscellaneous Commands to Channels](settings.md#miscellaneous-channel-settings) |
+| reactionchannel | [Restrict Reaction Commands to Channels](settings.md#reaction-commands-channel-settings) |
 

@@ -9,7 +9,7 @@ description: Magic8 and Server Information
     <tr>
       <th style="text-align:left">Command</th>
       <th style="text-align:left">Usage</th>
-      <th style="text-align:left">Notes</th>
+      <th style="text-align:left">Information</th>
     </tr>
   </thead>
   <tbody>
@@ -56,6 +56,15 @@ description: Magic8 and Server Information
         <p><b>Aliases:</b>  <code>p, upgrade, donate</code>
         </p>
         <p><b>Description:</b> Magic8 Premium Packages Information</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">updates</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p><b>Aliases:</b>  <code>changelog, cl</code>
+        </p>
+        <p><b>Description:</b> View the most recent update</p>
       </td>
     </tr>
   </tbody>
