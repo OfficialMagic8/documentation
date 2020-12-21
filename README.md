@@ -1,5 +1,5 @@
 ---
-description: Verified Discord Bot Supporting Over 500 Servers
+description: Verified Discord Bot Supporting Over 650 Servers
 ---
 
 # Magic8 - Entertainment & Utility
