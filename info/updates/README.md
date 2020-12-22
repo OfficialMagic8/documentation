@@ -9,12 +9,13 @@ description: >-
 
 The following list of updates are from the month of `December 2020`. To view historic updates, open the **Change Log** tab on the left.
 
-## 12/21/2020 - Waiting For Release
+## 12/22/2020 - Waiting For Release
 
 **New**
 
 * All settings/customizations now only require the Manage Server permission
 * Preparation for a stats website
+* Sharding manager to allow for better performance when Magic8 grows
 
 **Changes**
 
