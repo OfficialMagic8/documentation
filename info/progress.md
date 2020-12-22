@@ -1,5 +1,5 @@
 ---
-description: View the progress of the developers on Magic8.
+description: View the progress of specific projects or features for Magic8.
 ---
 
 # Progress Check

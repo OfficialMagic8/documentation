@@ -19,9 +19,9 @@ The Magic8 Discord Bot \("bot"\) is owned and developed by Fyrlex\#2740 and Alon
 
 ## Privacy
 
-We collect and store guild \(server\) data \(including the name and ID\), on Magic8 for settings and to monitor your usage of commands explicitly from Magic8. Most [settings](../commands/administrator/) have a default value and _any_ updated settings are stored in order to save your preferences \(language, prefix etc.\) for Magic8. Your data is only used in your server but we may check it at any time. Your data will not be given to any third-party service. You may request to view or delete your data at any time by contacting Fyrlex\#2740 on Discord.
+We collect and store guild \(server\) data \(including the name and ID\), on Magic8 for settings and to monitor your usage of commands explicitly from Magic8. Most [settings](../commands/administrator/) have a default value and _any_ updated settings are stored in order to save your preferences \(language, prefix etc.\) for the bot. Your data is only used in your server but we may check it at any time for testing purposes or modifications \(if we change what kind of data is stored\). Your data will not be given to any third-party service. You may request to view or delete your data at any time by contacting Fyrlex\#2740 on Discord.
 
 #### Mincraft Server IP/Host Feature
 
-The Minecraft Server IP address or domain name you set will be secured in our Database. It will not be used for any other reason besides when someone checks the status of the server with the `mcserver` command. You can remove your Minecraft Server IP from the Database at any time with `mcserver remove`.
+The Minecraft Server IP address or domain name you set will be secured in our Database. It will not be used for any other reason besides when someone in your server uses the `mcserver` command. You can remove your Minecraft Server IP from the Database at any time with `mcserver remove`.
 

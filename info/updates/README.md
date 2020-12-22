@@ -16,9 +16,11 @@ The following list of updates are from the month of `December 2020`. To view his
 * All settings/customizations now only require the Manage Server permission
 * Preparation for a stats website
 * Sharding manager to allow for better performance when Magic8 grows
+* Auto publish \#github updates from the Discord server
 
 **Changes**
 
+* Translations update
 * Updated some command descriptions
 * Major bug fixed with certain menus and deleting lists for `listmanager`
 
