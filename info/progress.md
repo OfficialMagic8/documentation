@@ -21,7 +21,8 @@ description: View the progress of specific projects or features for Magic8.
 - Tidying up code and error catching  
 - Find translators to help edit/create translations for Magic8 or Documentation  
 - Work on translating using [DeepL](https://www.deepl.com/en/translator)  
-- Massive Improvement/Optimization of Looking For Group
+- Massive Improvement/Optimization of Looking For Group  
+- More Auto Voice Channel types, 5 - 8 size channels
 {% endhint %}
 
 {% hint style="danger" %}

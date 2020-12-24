@@ -9,7 +9,7 @@ description: >-
 
 The following list of updates are from the month of `December 2020`. To view historic updates, open the **Change Log** tab on the left.
 
-## 12/22/2020 - Waiting For Release
+## 12/23/2020 - Waiting For Release
 
 **New**
 
@@ -17,12 +17,17 @@ The following list of updates are from the month of `December 2020`. To view his
 * Preparation for a stats website
 * Sharding manager to allow for better performance when Magic8 grows
 * Auto publish \#github updates from the Discord server
+* 5 - 8 size types for Auto Voice Channels
 
 **Changes**
 
+* Fixed an issue with a `fakeping` menu, it is still being monitored
+* Prevented new items in `listmanager` from being more than 80 characers
+* Page system for viewing a list's items in `list manager`
+* Other bug fixed with certain menus and deleting lists for `listmanager`
 * Translations update
 * Updated some command descriptions
-* Major bug fixed with certain menus and deleting lists for `listmanager`
+* Bug fixes/improvements
 
 ## 12/20/2020 - Live
 

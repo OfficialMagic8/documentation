@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Magic8 - Entertainment & Utility](README.md)
+* [Welcome](README.md)
 
 ## Commands & Features <a id="commands"></a>
 
