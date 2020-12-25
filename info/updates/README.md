@@ -9,15 +9,15 @@ description: >-
 
 The following list of updates are from the month of `December 2020`. To view historic updates, open the **Change Log** tab on the left.
 
-## 12/23/2020 - Waiting For Release
+## 12/24/2020 - Waiting For Release
 
 **New**
 
 * All settings/customizations now only require the Manage Server permission
 * Preparation for a stats website
-* Sharding manager to allow for better performance when Magic8 grows
 * Auto publish \#github updates from the Discord server
 * 5 - 8 size types for Auto Voice Channels
+* New advertisement for partner bot, [**Shopery**](https://top.gg/bot/787854966882697216)\*\*\*\*
 
 **Changes**
 
@@ -26,7 +26,9 @@ The following list of updates are from the month of `December 2020`. To view his
 * Page system for viewing a list's items in `list manager`
 * Other bug fixed with certain menus and deleting lists for `listmanager`
 * Translations update
+* Updated [Privacy Policy](../terms.md#privacy)
 * Updated some command descriptions
+* Improved `reload` command to reduce restarting the bot
 * Bug fixes/improvements
 
 ## 12/20/2020 - Live

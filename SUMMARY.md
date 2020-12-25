@@ -26,5 +26,5 @@
   * [Change Log - October 2020](info/updates/oct2020.md)
 * [Advertisements FAQ](info/ads.md)
 * [Contact Support](info/contact.md)
-* [Terms & Conditions](info/terms.md)
+* [Terms & Privacy](info/terms.md)
 
