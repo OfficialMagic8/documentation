@@ -9,26 +9,28 @@ description: >-
 
 The following list of updates are from the month of `December 2020`. To view historic updates, open the **Change Log** tab on the left.
 
-## 12/24/2020 - Waiting For Release
+## 12/26/2020 - Live
 
 **New**
 
+* `randomnumber` - get a random number between any range of whole numbers
 * All settings/customizations now only require the Manage Server permission
-* Preparation for a stats website
 * Auto publish \#github updates from the Discord server
 * 5 - 8 size types for Auto Voice Channels
-* New advertisement for partner bot, [**Shopery**](https://top.gg/bot/787854966882697216)\*\*\*\*
+* New advertisement for partner bot, **Shopery**, a Discord ordering service, [https://dsc.gg/shopery](https://dsc.gg/shopery)
 
 **Changes**
 
+* Prevent mentioning roles with `say`
+* Starting to fix a page issue with `listmanager`
 * Fixed an issue with a `fakeping` menu, it is still being monitored
-* Prevented new items in `listmanager` from being more than 80 characers
-* Page system for viewing a list's items in `list manager`
-* Other bug fixed with certain menus and deleting lists for `listmanager`
+* Prevented new items in `listmanager` from being more than 80 characters
+* Page system for viewing a list's items in `listmanager`
+* Other bug fixes with certain menus and deleting lists for `listmanager`
 * Translations update
-* Updated [Privacy Policy](../terms.md#privacy)
+* Updated Privacy Policy
 * Updated some command descriptions
-* Improved `reload` command to reduce restarting the bot
+* Improved `reload` command and other developer tools to reduce restarting the bot
 * Bug fixes/improvements
 
 ## 12/20/2020 - Live
