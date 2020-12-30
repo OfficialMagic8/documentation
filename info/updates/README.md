@@ -9,6 +9,16 @@ description: >-
 
 The following list of updates are from the month of `December 2020`. To view historic updates, open the **Change Log** tab on the left.
 
+## 12/30/2020 - Waiting For Release
+
+**New**
+
+* Temporarily disabled mentioning any user or channel with `say`
+
+**Changes**
+
+* Fixed an issue with the already playing menu for `slotmachine`
+
 ## 12/26/2020 - Live
 
 **New**
