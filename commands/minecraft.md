@@ -1,5 +1,5 @@
 ---
-description: Check Minecraft players' profiles or other Minecraft related commands
+description: Check Minecraft player profiles or other Minecraft related commands
 ---
 
 # 🚪 Minecraft Commands

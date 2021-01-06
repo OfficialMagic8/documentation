@@ -1,5 +1,5 @@
 ---
-description: Tools that some users and administrators can use.
+description: A mix of tools for administrators and users - Requires Manage Server
 ---
 
 # ⚙️ Utility Commands

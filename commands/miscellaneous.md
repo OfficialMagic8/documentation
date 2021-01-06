@@ -1,5 +1,5 @@
 ---
-description: Other commands that don't really have a specific category
+description: Other commands that do not have a specific category
 ---
 
 # 🎀 Miscellaneous Commands

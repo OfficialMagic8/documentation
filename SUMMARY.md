@@ -14,7 +14,7 @@
 * [👤 User Commands](commands/user.md)
 * [⚙️ Utility Commands](commands/utilities.md)
 * [👮 Administrator Commands](commands/administrator/README.md)
-  * [⚙️Advanced Settings](commands/administrator/settings.md)
+  * [⚙️Settings](commands/administrator/settings.md)
 
 ## Information <a id="info"></a>
 

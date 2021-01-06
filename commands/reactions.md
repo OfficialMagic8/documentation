@@ -1,5 +1,5 @@
 ---
-description: Reaction types of commands
+description: Commands that give reactions
 ---
 
 # 😍 Reaction Commands

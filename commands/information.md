@@ -1,5 +1,5 @@
 ---
-description: Magic8 and Server Information
+description: Useful information relating to Magic8 or your server
 ---
 
 # 📚 Information Commands

@@ -1,5 +1,5 @@
 ---
-description: Tools for members with Manage Server permission
+description: A variety of tools and settings for Magic8 - Requires Manage Server
 ---
 
 # 👮 Administrator Commands

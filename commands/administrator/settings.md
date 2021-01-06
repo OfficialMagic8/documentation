@@ -1,8 +1,8 @@
 ---
-description: A detailed description of Magic8's settings.
+description: Specific details of server settings on Magic8
 ---
 
-# ⚙️Advanced Settings
+# ⚙️Settings
 
 ### Magic 8 Ball Settings
 
@@ -13,7 +13,7 @@ description: A detailed description of Magic8's settings.
 | color | &lt;color\|hex\|random&gt; | Set the embed color |
 | mode | &lt;clean\|all\|explicit\|custom\|0\|1\|2\|3&gt; | Set the resposne type |
 | replies |  | View current custom replies |
-| setreplies | &lt;Reply 1\|Reply 2&gt; | Set the replies for the custom mode |
+| setreplies | &lt;Reply 1\| Reply 2&gt; | Set the replies for the custom mode |
 
 ### Server Media Settings
 
@@ -21,7 +21,7 @@ description: A detailed description of Magic8's settings.
 
 | Sub-Command | Usage | Notes |
 | :--- | :--- | :--- |
-| color | &lt;color\|hex\|random&gt; | Set the embed color |
+| color | &lt;color \| hex \| "RANDOM"&gt; | Set the embed color |
 | image | &lt;image URL&gt; | Set the image at the bottom of the embed |
 | text | &lt;markdown text&gt; | Set the description  |
 

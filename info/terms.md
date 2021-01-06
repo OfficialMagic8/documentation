@@ -1,7 +1,7 @@
 ---
 description: >-
-  These terms may be updated at any time without notice. You agree and will
-  follow these terms as long as you are using Magic8.
+  Please take the time to read and follow our Terms of Service and also our
+  Privacy Policy. This may be updated at any time.
 ---
 
 # Terms & Privacy
