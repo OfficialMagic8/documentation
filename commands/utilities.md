@@ -35,7 +35,11 @@ description: A mix of tools for administrators and users - Requires Manage Serve
     </tr>
     <tr>
       <td style="text-align:left">randomnumber</td>
-      <td style="text-align:left">click here</td>
+      <td style="text-align:left">
+        <p>&lt;number&gt; [number]</p>
+        <p><a href="utilities.md#random-number-usage">click here</a>
+        </p>
+      </td>
       <td style="text-align:left">
         <p><b>Aliases:</b>  <code>rn</code>
         </p>
@@ -62,7 +66,7 @@ description: A mix of tools for administrators and users - Requires Manage Serve
 
 ## List Manager Usage
 
-An interactive setup-menu will appear when adding/removing items. A list is provided as a way to "select" what is list is being edited. The **bolded** commands are available to everyone while the others require `Manage Server`**.**
+An interactive setup-menu will appear when adding/removing items. A list is provided as a way to "select" what is list is being edited. The **bolded** commands are available to everyone while the others require `Manage Server`.
 
 | Sub-Command | Usage | Information |
 | :--- | :--- | :--- |
@@ -77,5 +81,5 @@ An interactive setup-menu will appear when adding/removing items. A list is prov
 
 ## Random Number Usage
 
-The `randomnumber` command has two options. You can
+The `randomnumber` command has two options. Providing **one** number will set the minimum to **zero**. Providing **two** numbers sets the minimum to the first number, and the maximum to the second number. Negative numbers are supported while fractions are not.
 
