@@ -41,7 +41,7 @@ If you would like to switch your premium server, simply contact support, free of
 * 10x &gt; 30x Toggled Commands
 * 20x &gt; 50x Anti-Ping Users
 * 50x &gt; 100x Custom Magic 8 Ball Responses
-* No advertisements
+* No advertisements/branding
 * Looking For Group System With Adjustable Cooldown
 * Custom language file
 

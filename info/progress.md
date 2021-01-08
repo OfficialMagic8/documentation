@@ -10,7 +10,8 @@ description: View the progress of specific projects or features for Magic8.
 - Trivia Upgrade  
 - Bot listing pages update \([top.gg](https://top.gg/bot/484148705507934208)\)  
 - Update `mcserver` status page  
-- New features/settings for Auto Voice Channels
+- New features/settings for Auto Voice Channels  
+- More Auto Voice Channel types, 5 - 8 size channels
 {% endhint %}
 
 {% hint style="info" %}
@@ -21,8 +22,7 @@ description: View the progress of specific projects or features for Magic8.
 - Tidying up code and error catching  
 - Find translators to help edit/create translations for Magic8 or Documentation  
 - Work on translating using [DeepL](https://www.deepl.com/en/translator)  
-- Massive Improvement/Optimization of Looking For Group  
-- More Auto Voice Channel types, 5 - 8 size channels
+- Massive Improvement/Optimization of Looking For Group
 {% endhint %}
 
 {% hint style="danger" %}
@@ -33,6 +33,7 @@ description: View the progress of specific projects or features for Magic8.
 - Fix random bugs with `akinator`  
 - Dashboard to manage Magic8  
 - Option to answer using reactions for `trivia`  
-- Chess game
+- Chess game  
+- Blacklist individual users/roles for specific commands/categories
 {% endhint %}
 

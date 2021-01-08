@@ -16,6 +16,10 @@ Voting helps promote Magic8 on the website they're on and attracts more users. W
 
 **A single vote** from anyone in your server removes ads from your server for 12 hours and posts a message in our Support Server with your name and avatar.
 
+{% hint style="danger" %}
+**Automatic Voting Rewards are in BETA**
+{% endhint %}
+
 **Monthly Voting Rewards:**
 
 * 10x Votes

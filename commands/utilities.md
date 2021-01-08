@@ -14,7 +14,7 @@ description: A mix of tools for administrators and users - Requires Manage Serve
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">clear</td>
+      <td style="text-align:left">*clear</td>
       <td style="text-align:left">&lt;1-100&gt;</td>
       <td style="text-align:left">
         <p><b>Aliases:</b>  <code>purge, del</code>
@@ -31,6 +31,15 @@ description: A mix of tools for administrators and users - Requires Manage Serve
         </p>
         <p><b>Description: </b>An entire list management system that</p>
         <p>can be used for to-do-lists or a randomizer</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">randomnumber</td>
+      <td style="text-align:left">click here</td>
+      <td style="text-align:left">
+        <p><b>Aliases:</b>  <code>rn</code>
+        </p>
+        <p><b>Description:</b> Generate a random whole number</p>
       </td>
     </tr>
     <tr>
@@ -53,7 +62,7 @@ description: A mix of tools for administrators and users - Requires Manage Serve
 
 ## List Manager Usage
 
-An interactive setup-menu will appear when adding/removing items. A list is provided as a way to "select" what is list is being edited.
+An interactive setup-menu will appear when adding/removing items. A list is provided as a way to "select" what is list is being edited. The **bolded** commands are available to everyone while the others require `Manage Server`**.**
 
 | Sub-Command | Usage | Information |
 | :--- | :--- | :--- |
@@ -63,8 +72,10 @@ An interactive setup-menu will appear when adding/removing items. A list is prov
 | create | &lt;list&gt; | Create a list |
 | delete | &lt;list&gt; | Delete a list |
 | cooldown | &lt;5-300 seconds&gt; | Set the randomization cooldown for all users |
-| randomize | &lt;list&gt; \[2-total items\] | Randomize a list once or multiple times without repeats |
-| view | \[list\] | View all lists or items of a list |
+| **randomize** | &lt;list&gt; \[2-total items\] | Randomize a list once or multiple times without repeats |
+| **view** | \[list\] | View all lists or items of a list |
 
+## Random Number Usage
 
+The `randomnumber` command has two options. You can
 
