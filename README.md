@@ -1,5 +1,5 @@
 ---
-description: El Bot de Discord Verificada soporta más de 650 Servidores
+description: Magic8 es un Bot de Discordia verificado que soporta más de 700 servidores
 ---
 
 # Magic8 - Entretenimiento & Utilidad

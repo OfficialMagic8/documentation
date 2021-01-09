@@ -19,9 +19,9 @@ La columna de uso proporciona ejemplos de lo que se escribiría después del nom
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Name</th>
-      <th style="text-align:left">Usage</th>
-      <th style="text-align:left">Information</th>
+      <th style="text-align:left">Nombre</th>
+      <th style="text-align:left">Uso</th>
+      <th style="text-align:left">Informaci&#xF3;n</th>
     </tr>
   </thead>
   <tbody>
