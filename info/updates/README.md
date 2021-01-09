@@ -14,7 +14,7 @@ The following list of updates are from the month of `January 2021`. To view othe
 **Live** - Fully functional
 {% endhint %}
 
-## 1/8/2020 - Beta
+## 1/9/2020 - Live
 
 **New**
 
