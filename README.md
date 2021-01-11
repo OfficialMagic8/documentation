@@ -2,9 +2,9 @@
 description: Magic8 es un Bot de Discordia verificado que soporta más de 700 servidores
 ---
 
-# Magic8 - Entretenimiento & Utilidad
+# Bienvenido
 
-\*\*\*\*[**English**](https://docs.magic8.xyz/v/en/) **-** [**Español**](https://docs.magic8.xyz/v/es/) **-** [**Français**](https://docs.magic8.xyz/v/fr/)\*\*\*\*
+\*\*\*\*[**English**](https://docs.magic8.xyz/v/en/) **•** [**Español**](https://docs.magic8.xyz/v/es/) **•** [**Français**](https://docs.magic8.xyz/v/fr/)\*\*\*\*
 
 {% hint style="warning" %}
 ¡Necesitamos traductores! Magic8 puede soportar **cualquier** idioma, ¡ven a ayudar!
