@@ -2,7 +2,7 @@
 description: Tools that some users and administrators can use.
 ---
 
-# ⚙️ Utility Commands
+# ⚙️ Commandes de Utilité
 
 <table>
   <thead>

@@ -2,7 +2,7 @@
 description: Minigames to play with Magic8 or by yourself
 ---
 
-# 🕹️ Minigames
+# 🕹️ Mini-jeux
 
 {% hint style="info" %}
 This whole category can be restricted to up to **two** channels for free. Check out the [**Premium Packages**](../info/premium.md) to get around this limit.

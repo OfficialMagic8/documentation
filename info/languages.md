@@ -4,7 +4,7 @@ description: >-
   in helping this!
 ---
 
-# Languages
+# Langues
 
 The developers of Magic8 have spent the past few weeks moving all messages into this repository. In addition, Magic8 directly pulls its languages from here and works pretty fast. Come join the project and help translate Magic8!
 

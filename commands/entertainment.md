@@ -2,7 +2,7 @@
 description: Fun ways to engage your community
 ---
 
-# 🎉 Entertainment Commands
+# 🎉 Commandes de Divertissement
 
 {% hint style="success" %}
 This whole category can be restricted to up to **two** channels for free. Check out the [**Premium Packages**](../info/premium.md) to get around this limit.

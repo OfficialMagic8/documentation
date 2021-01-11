@@ -2,7 +2,7 @@
 description: Check Minecraft players' profiles or other Minecraft related commands
 ---
 
-# 🚪 Minecraft Commands
+# 🚪 Commandes de Minecraft
 
 <table>
   <thead>

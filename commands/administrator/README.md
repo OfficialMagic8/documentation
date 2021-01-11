@@ -2,7 +2,7 @@
 description: Tools for members with Manage Server permission
 ---
 
-# 👮 Administrator Commands
+# 👮 Commandes de l'administrateur
 
 ## General Information
 

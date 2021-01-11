@@ -2,7 +2,7 @@
 description: Magic8 and Server Information
 ---
 
-# 📚 Information Commands
+# 📚 Commandes de Information
 
 <table>
   <thead>

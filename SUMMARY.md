@@ -1,25 +1,25 @@
 # Table of contents
 
-* [Magic8 - Entertainment & Utility](README.md)
+* [Bienvenue](README.md)
 
 ## Commands & Features <a id="commands"></a>
 
 * [👋 Introduction](commands/info.md)
-* [🎉 Entertainment Commands](commands/entertainment.md)
-* [🕹️ Minigames](commands/minigames.md)
-* [🚪 Minecraft Commands](commands/minecraft.md)
-* [😍 Reaction Commands](commands/reactions.md)
-* [🎀 Miscellaneous Commands](commands/miscellaneous.md)
-* [📚 Information Commands](commands/information.md)
-* [👤 User Commands](commands/user.md)
-* [⚙️ Utility Commands](commands/utilities.md)
-* [👮 Administrator Commands](commands/administrator/README.md)
+* [🎉 Commandes de Divertissement](commands/entertainment.md)
+* [🕹️ Mini-jeux](commands/minigames.md)
+* [🚪 Commandes de Minecraft](commands/minecraft.md)
+* [😍 Commandes de Réaction](commands/reactions.md)
+* [🎀 Commandes Diverses](commands/miscellaneous.md)
+* [📚 Commandes de Information](commands/information.md)
+* [👤 Commandes des Utilisateurs](commands/user.md)
+* [⚙️ Commandes de Utilité](commands/utilities.md)
+* [👮 Commandes de l'administrateur](commands/administrator/README.md)
   * [⚙️Advanced Settings](commands/administrator/settings.md)
 
 ## Information <a id="info"></a>
 
 * [Premium Packages](info/premium.md)
-* [Languages](info/languages.md)
+* [Langues](info/languages.md)
 * [Advertisements FAQ](info/ads.md)
 * [Contact Support](info/contact.md)
 * [Progress Check](info/progress.md)

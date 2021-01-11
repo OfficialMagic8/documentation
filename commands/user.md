@@ -2,7 +2,7 @@
 description: User's own information and tools
 ---
 
-# 👤 User Commands
+# 👤 Commandes des Utilisateurs
 
 {% hint style="success" %}
 This whole category can be restricted to up to **two** channels for free. Check out the [**Premium Packages**](../info/premium.md) to get around this limit.

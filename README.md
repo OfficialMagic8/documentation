@@ -2,9 +2,9 @@
 description: Magic8 est un Discord Bot vérifié qui supporte plus de 700 serveurs
 ---
 
-# Magic8 - Entertainment & Utility
+# Bienvenue
 
-\*\*\*\*[**English**](https://docs.magic8.xyz/v/en/) **-** [**Español**](https://docs.magic8.xyz/v/es/) **-** [**Français**](https://docs.magic8.xyz/v/fr/)\*\*\*\*
+\*\*\*\*[**English**](https://docs.magic8.xyz/v/en/) **•** [**Español**](https://docs.magic8.xyz/v/es/) **•** [**Français**](https://docs.magic8.xyz/v/fr/)\*\*\*\*
 
 {% hint style="warning" %}
 We are in need of translators! Magic8 can support **any** language, come help out!

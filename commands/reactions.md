@@ -2,7 +2,7 @@
 description: Reaction types of commands
 ---
 
-# 😍 Reaction Commands
+# 😍 Commandes de Réaction
 
 {% hint style="success" %}
 This whole category can be restricted to up to **two** channels for free. Check out the [**Premium Packages**](../info/premium.md) to get around this limit.
