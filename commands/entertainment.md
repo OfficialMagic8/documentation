@@ -11,9 +11,9 @@ This whole category can be restricted to up to **two** channels for free. Check 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Command</th>
       <th style="text-align:left">Usage</th>
-      <th style="text-align:left">Notes</th>
+      <th style="text-align:left">Information</th>
     </tr>
   </thead>
   <tbody>

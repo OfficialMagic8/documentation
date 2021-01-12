@@ -18,7 +18,7 @@ It is actually impossible to prevent a user from pinging another. This system si
 
 **Base Command:** `antiping` or `ap` Anti-Ping Settings Menu
 
-| Sub-Command | Notes |
+| Sub-Command | Information |
 | :--- | :--- |
 | adduser | Disable Pings For A User By ID Or @mention |
 | removeuser | Re-enable Pings For A User By ID Or @mention |

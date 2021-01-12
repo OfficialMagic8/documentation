@@ -8,7 +8,7 @@ description: Pequeñas y divertidas formas de interactuar con otros miembros de 
 This whole category can be restricted to up to **two** channels for free. Check out the [**Premium Packages**](../info/premium.md) to get around this limit.
 {% endhint %}
 
-| Name | Usage | Notes |
+| Command | Usage | Information |
 | :--- | :--- | :--- |
 | cuddle | \[user\] | **Description:** Cuddle yourself or a friend |
 | feed | \[user\] | **Description:** Feed yourself or a friend |
