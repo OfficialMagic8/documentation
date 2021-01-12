@@ -8,13 +8,19 @@ description: >-
 
 The following list of updates are from the month of `January 2021`. To view other updates, open the **Change Log** tab on the left.
 
-{% hint style="info" %}
-**Waiting For Release** - In development  
-**Beta** - Currently being tested  
-**Live** - Fully functional
-{% endhint %}
+## 1/11/2021 - Beta
 
-## 1/9/2020 - Live
+**New**
+
+* Overwatch SR emojis
+
+**Changes**
+
+* Formatting of `overwatch` profile menus
+* Removed some statuses
+* Removed the alias `mcachie` for `mcachievement`
+
+## 1/9/2021 - Live
 
 **New**
 

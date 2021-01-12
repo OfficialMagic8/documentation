@@ -19,7 +19,7 @@ The Usage column provides examples on what you would type after the command name
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Command</th>
       <th style="text-align:left">Usage</th>
       <th style="text-align:left">Information</th>
     </tr>
