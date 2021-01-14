@@ -64,13 +64,6 @@ description: Specific details of server settings on Magic8
   </tbody>
 </table>
 
-### Toggled Command Settings
-
-| Sub-Command | Usage | Notes |
-| :--- | :--- | :--- |
-| toggle | &lt;command&gt; | Enable or disable a command |
-| toggled |  | View all disabled commands |
-
 ### Fun Commands Channel Settings
 
 **Base Command:** `s funchannel`

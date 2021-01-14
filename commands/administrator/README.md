@@ -6,7 +6,7 @@ description: A variety of tools and settings for Magic8 - Requires Manage Server
 
 ## General Information
 
-These commands can be accessed by all users with Manage Server permission. If you were to kick Magic8 then reinvite, your settings will still be saved.
+These commands can be accessed by all users with `Manage Server` permission. If you were to kick Magic8 then reinvite, your settings will still be saved.
 
 ## Anti-Ping
 
@@ -71,6 +71,33 @@ The prefix can be set to anything desired, there is no limit on the length of it
 
 **Base Command:** `prefix` or `pf`
 
+## Toggle Command Settings
+
+Commands that are not in the [Information](../information.md) or [Administrator Commands](./) category can be toggled for all users within your server.
+
+**Base Command:** `toggle` or `tog`
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Sub-Command</th>
+      <th style="text-align:left">Usage</th>
+      <th style="text-align:left">Information</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">toggle</td>
+      <td style="text-align:left">[command]</td>
+      <td style="text-align:left">
+        <p>If no command is provided, toggled</p>
+        <p>commands are shown, otherwise the</p>
+        <p>provided command is toggled</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Advanced Settings
 
 Click the commands below to be taken to further detail if the menu in Discord did not help you enough!
@@ -82,9 +109,6 @@ Click the commands below to be taken to further detail if the menu in Discord di
 | 8ball | [Magic 8 Ball Settings](settings.md#magic-8-ball-settings) |
 | media | [Server Media Settings](settings.md#server-media-settings) |
 | lfg | [Looking For Group Settings](settings.md#looking-for-group-settings) |
-| prefix | Custom Prefix Settings |
-| toggle | [Enable or Disable Commands](settings.md#toggled-command-settigns) |
-| toggled | [View Toggled Commands](settings.md#toggled-command-settigns) |
 | funchannel | [Restrict Fun Commands to Channels](settings.md#fun-commands-channel-settings) |
 | minigamechannel | [Restrict Minigames to Channels](settings.md#minigame-channel-settings) |
 | miscellaneouschannel | [Restrict Miscellaneous Commands to Channels](settings.md#miscellaneous-channel-settings) |

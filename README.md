@@ -18,7 +18,7 @@ We are in need of translators! Magic8 can support **any** language, come help ou
 
 ## General Overview
 
-Magic8 comes with numerous ways to entertain and freshen your server. There are a variety of settings so you can control what your users can do with Magic8. A few tools are also given that are not seen as often in other bots. The default prefix is `m!` \(@mentioning the bot always work too\) but can be changed at any time using `m!settings prefix`. In case you forget your prefix or need quick assistance, you can @Magic8 for a quick help message.
+Magic8 comes with numerous ways to entertain and freshen your server. There are a variety of settings so you can control what your users can do with Magic8. A few tools are also given that are not seen as often in other bots. The default prefix is `m!` \(@mentioning the bot always work too\) but can be changed at any time using `m!prefix`. In case you forget your prefix or need quick assistance, you can @Magic8 for a quick help message.
 
 ## Permissions
 

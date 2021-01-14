@@ -59,6 +59,18 @@ description: Useful information relating to Magic8 or your server
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">summary</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p><b>Aliases:</b>  <code>daily</code>
+        </p>
+        <p><b>Description:</b> Magic8&apos;s summary of today&apos;s statistics from
+          <a
+          href="https://statcord.com/bot/484148705507934208">Statcord</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">updates</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">

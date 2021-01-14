@@ -8,12 +8,13 @@ description: >-
 
 The following list of updates are from the month of `January 2021`. To view other updates, open the **Change Log** tab on the left.
 
-## 1/13/2021 - Beta
+## 1/14/2021 - Beta
 
 **New**
 
 * Overwatch SR emojis
 * Statuses
+* Daily summary command, `summary`
 
 **Changes**
 
