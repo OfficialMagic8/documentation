@@ -18,7 +18,7 @@ description: Magic8 es un Bot de Discordia verificado que soporta más de 700 se
 
 ## Visión General
 
-Magic8 viene con numerosas formas de entretener y refrescar a tu servidor. Hay una gran variedad de ajustes para que puedas controlar lo que tus usuarios pueden hacer con Magic8. También se ofrecen algunas herramientas que no se ven tan a menudo en otros bots. El prefijo por defecto es `m!` \(@mencionando el bot siempre funciona también\) pero puede ser cambiado en cualquier momento usando `m!settings prefix`. En caso de que olvides tu prefijo o necesites ayuda rápida, puedes usar @Magic8 para un mensaje de ayuda rápida.
+Magic8 viene con numerosas formas de entretener y refrescar a tu servidor. Hay una gran variedad de ajustes para que puedas controlar lo que tus usuarios pueden hacer con Magic8. También se ofrecen algunas herramientas que no se ven tan a menudo en otros bots. El prefijo por defecto es `m!` \(@mencionando el bot siempre funciona también\) pero puede ser cambiado en cualquier momento usando `m!prefix`. En caso de que olvides tu prefijo o necesites ayuda rápida, puedes usar @Magic8 para un mensaje de ayuda rápida.
 
 ## Permisos
 
