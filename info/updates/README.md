@@ -8,14 +8,16 @@ description: >-
 
 The following list of updates are from the month of `January 2021`. To view other updates, open the **Change Log** tab on the left.
 
-## 1/11/2021 - Beta
+## 1/13/2021 - Beta
 
 **New**
 
 * Overwatch SR emojis
+* Statuses
 
 **Changes**
 
+* `s toggle` is now it's own command, `toggle` which without any args is the same as `s toggled`
 * Formatting of `overwatch` profile menus
 * Removed some statuses
 * Removed the alias `mcachie` for `mcachievement`
