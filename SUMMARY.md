@@ -22,6 +22,5 @@
 * [Langues](info/languages.md)
 * [Advertisements FAQ](info/ads.md)
 * [Contact Support](info/contact.md)
-* [Progress Check](info/progress.md)
 * [Terms & Conditions](info/terms.md)
 
