@@ -44,15 +44,18 @@ The server with the most votes at the end of the month gets 1x week of Premium I
 
 ## Where can I vote?
 
-There are two voting sites that can be used, but only **Discord Bot List** gives the rewards above.
-
-**top.gg:** [https://top.gg/bot/484148705507934208/vote](https://top.gg/bot/484148705507934208/vote)
-
-**Discord Boats:** [https://discord.boats/bot/484148705507934208/vote](https://discord.boats/bot/484148705507934208/vote)
-
-**Discord Bot Labs:** [https://bots.discordlabs.org/bot/484148705507934208](https://bots.discordlabs.org/bot/484148705507934208)
-
-**Discord Bot List:** [https://discordbotlist.com/bots/magic8/upvote](https://discordbotlist.com/bots/magic8/upvote)
+| \*\*\*\* |
+| :--- |
+| **top.gg:** [https://top.gg/bot/484148705507934208/vote](https://top.gg/bot/484148705507934208/vote) |
+| **Discord Boats:** [https://discord.boats/bot/484148705507934208/vote](https://discord.boats/bot/484148705507934208/vote) |
+| **Discord Bot List:** [https://discordbotlist.com/bots/magic8/upvote](https://discordbotlist.com/bots/magic8/upvote) |
+| **Discord Extreme List:** [https://discordextremelist.xyz/en-US/bots/484148705507934208](https://discordextremelist.xyz/en-US/bots/484148705507934208) |
+| **Discord Bot Labs:** [http://dbots.cc/magic8](http://dbots.cc/magic8) |
+| **botlist.space:** [https://botlist.space/bot/484148705507934208](https://botlist.space/bot/484148705507934208) |
+| **BladeBotList:** [https://bladebotlist.xyz/bot/484148705507934208](https://bladebotlist.xyz/bot/484148705507934208/) |
+| **Bots For Discord:** [https://botsfordiscord.com/bot/484148705507934208](https://botsfordiscord.com/bot/484148705507934208) |
+| **BotsDataBase:** [https://botsdatabase.com/bot/484148705507934208](https://botsdatabase.com/bot/484148705507934208) |
+| **Blist:** [https://blist.xyz/bot/484148705507934208](https://blist.xyz/bot/484148705507934208) |
 
 ## Can I get my own Advertisement on Magic8?
 
