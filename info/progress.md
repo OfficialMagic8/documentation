@@ -7,8 +7,7 @@ description: View the progress of specific projects or features for Magic8.
 {% hint style="success" %}
 **Complete**  
 - Multiple Language Support \([GitHub](https://github.com/OfficialMagic8/Languages)\)  
-- Trivia Upgrade  
-- Bot listing pages update \([top.gg](https://top.gg/bot/484148705507934208)\)  
+- Trivia Update  
 - Update `mcserver` status page  
 - New features/settings for Auto Voice Channels  
 - More Auto Voice Channel types, 5 - 8 size channels
@@ -16,7 +15,8 @@ description: View the progress of specific projects or features for Magic8.
 
 {% hint style="info" %}
 **In Progress**  
-- Finish adding settings to [en.json](https://github.com/OfficialMagic8/languages/blob/master/languages/en.json)  
+- Automatic voting rewards and webhooks  
+- Finish adding `settings` and `toggle`to [en.json](https://github.com/OfficialMagic8/languages/blob/master/languages/en.json)  
 - Clean up all language files  
 - Update other language files to match changes in [en.json](https://github.com/OfficialMagic8/languages/blob/master/languages/en.json)  
 - Tidying up code and error catching  
@@ -27,8 +27,7 @@ description: View the progress of specific projects or features for Magic8.
 
 {% hint style="danger" %}
 **Not Started**  
-- Automatic vote rewards  
-****- Fix a few unused settings  
+- Fix a few unused settings  
 ****- More statistics to view for `hypixel` command  
 - Fix random bugs with `akinator`  
 - Dashboard to manage Magic8  

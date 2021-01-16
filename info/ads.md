@@ -8,7 +8,7 @@ description: Information about Magic8's ads and how you can get your ad posted.
 
 Advertisements are now sent every **100** commands used in a server. The advertisements are only for Magic8 but may change or grow in variety. Magic8 has become quite popular lately and advertisements are used to get people to vote, promoting the bot even more. The developers are then motivated to continue working and perfecting Magic8 to be the best entertainment and utility bot.
 
-Advertisements will only be sent in **non-premium** servers that **do not** have a user who **voted within the past 12 hours.** Voting links can be found [here](ads.md#where-can-i-vote).
+Advertisements will only be sent in **non-premium** servers that **do not** have a user who **voted within the since midnight of the current day \(EST\).** Voting links can be found [here](ads.md#where-can-i-vote).
 
 ## What do I get for voting?
 
