@@ -73,7 +73,7 @@ The prefix can be set to anything desired, there is no limit on the length of it
 
 ## Toggle Command Settings
 
-Commands that are not in the [Information](../information.md) or [Administrator Commands](./) category can be toggled for all users within your server.
+Commands that are not in [Information](../information.md) or [Administrator](./) can be toggled for all users within your server.
 
 **Base Command:** `toggle` or `tog`
 

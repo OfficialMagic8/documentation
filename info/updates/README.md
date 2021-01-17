@@ -8,14 +8,15 @@ description: >-
 
 The following list of updates are from the month of `January 2021`. To view other updates, open the **Change Log** tab on the left.
 
-## 1/15/2021 - Beta
+## 1/16/2021 - Live
 
 **New**
 
 * Overwatch SR emojis
 * Statuses
-* Daily summary command, `summary`
+* Magic8 daily summary command, `summary`
 * Voting webhooks on various sites
+* Improved voting webhooks and better guild/vote tracking
 
 **Changes**
 
