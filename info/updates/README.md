@@ -8,6 +8,18 @@ description: >-
 
 The following list of updates are from the month of `January 2021`. To view other updates, open the **Change Log** tab on the left.
 
+## 1/18/2021 - Development
+
+**New**
+
+* Nothing today
+
+**Changes**
+
+* Updated [Terms & Privacy](../terms.md)
+* Fix an issue with some webhooks
+* Fixed the main `settings` menu from not sending
+
 ## 1/16/2021 - Live
 
 **New**
