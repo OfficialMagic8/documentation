@@ -8,11 +8,12 @@ description: >-
 
 The following list of updates are from the month of `January 2021`. To view other updates, open the **Change Log** tab on the left.
 
-## 1/18/2021 - Development
+## 1/22/2021 - Development
 
 **New**
 
-* Nothing today
+* `partners` command to view the new [Partners](../partners/) page
+* `vote` command
 
 **Changes**
 
