@@ -17,7 +17,7 @@ The Magic8 Discord Bot \("bot"\) is owned and developed by Fyrlex\#2740 and Alon
 * We have a log system of every command that is used, the author's and the server's name and ID are sent in this channel.
 * All donations to Magic8 through through any payment method are donations that cannot be refunded. Chargebacks ban Magic8 from any server you are in. This includes all Premium Packages too.
 * These terms, our Privacy statement, Premium Package contents and prices, may be changed at any time.
-* We ask you to follow [Discord's Terms](https://discord.com/terms) as well.
+* We ask you to follow [**Discord's Terms**](https://discord.com/terms) as well.
 
 ## Privacy
 

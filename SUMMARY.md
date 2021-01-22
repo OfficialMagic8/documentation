@@ -27,9 +27,10 @@
   * [Change Log - October 2020](info/updates/oct2020.md)
 * [Advertisements and Voting](info/ads-voting.md)
 * [Partners](info/partners/README.md)
-  * [Something.Host](info/partners/somethinghost.md)
+  * [BreMea Development](info/partners/bremea-development.md)
   * [PlexusMC - Minecraft Java 1.16](info/partners/plexusmc.md)
   * [Shopery](info/partners/shopery.md)
+  * [Something.Host](info/partners/somethinghost.md)
 * [Contact Support](info/contact.md)
 * [Terms & Privacy](info/terms.md)
 

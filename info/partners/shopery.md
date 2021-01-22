@@ -1,12 +1,12 @@
 ---
 description: >-
-  Next level economy & roleplay bot. Order something and we deliver it right to
-  your server. Join the Team and make deliveries!
+  Next level economy & roleplay bot. Order anything and the team delivers it
+  right to your server.
 ---
 
 # Shopery
 
-![](https://top.gg/api/widget/787854966882697216.svg)
+![](../../.gitbook/assets/shopery.png)
 
 ## Links
 

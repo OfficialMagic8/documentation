@@ -173,7 +173,7 @@ description: >-
 | Minecraft Lapis 3.5GB | **RAM:** 3584 MB | **13.99 €** |
 | Minecraft Diamond 4GB | **RAM:** 4096 MB | **15.99 €** |
 
-### Discord Bot Hosting
+### [Discord Bot Hosting](https://cp.something.host/order/products/discord)
 
 | Name | Specs | Price |
 | :--- | :--- | :--- |

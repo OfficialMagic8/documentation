@@ -1,14 +1,22 @@
 ---
-description: 'View Magic8''s amazing partners, you could be one too!'
+description: Magic8's amazing partners that offer great services or products.
 ---
 
 # Partners
 
-{% page-ref page="somethinghost.md" %}
+![](../../.gitbook/assets/bremea.png)
+
+{% page-ref page="bremea-development.md" %}
+
+![](../../.gitbook/assets/plexusmc.png)
 
 {% page-ref page="plexusmc.md" %}
 
+![](../../.gitbook/assets/shopery.png)
+
 {% page-ref page="shopery.md" %}
 
+![](../../.gitbook/assets/somethinghostsmall.png)
 
+{% page-ref page="somethinghost.md" %}
 

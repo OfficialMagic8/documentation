@@ -6,7 +6,7 @@ description: >-
 
 # PlexusMC - Minecraft Java 1.16
 
-![](../../.gitbook/assets/plexusmc%20%282%29.png)
+![](../../.gitbook/assets/plexusmc.png)
 
 ## Links
 

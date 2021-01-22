@@ -8,16 +8,19 @@ description: >-
 
 The following list of updates are from the month of `January 2021`. To view other updates, open the **Change Log** tab on the left.
 
-## 1/22/2021 - Development
+## 1/22/2021 - Beta
 
 **New**
 
-* `partners` command to view the new [Partners](../partners/) page
-* `vote` command
+* \*\*\*\*[**magic8.xyz**](https://magiv8.xyz) properly redirects to the documentation
+* `partners` command to view the new [**Partners**](../partners/) page
+* Updated `vote` command menu
 
 **Changes**
 
-* Updated [Terms & Privacy](../terms.md)
+* Typing `media` when there is no media set no longer requires `Manage Server` permission
+* Typing `help <command>` no longer requires `Manage Server` permission
+* Updated [**Terms & Privacy**](../terms.md)\*\*\*\*
 * Fix an issue with some webhooks
 * Fixed the main `settings` menu from not sending
 
@@ -51,9 +54,9 @@ The following list of updates are from the month of `January 2021`. To view othe
 
 **Changes**
 
-* Updated images and colors for [Reaction Commands](../../commands/reactions.md)
+* Updated images and colors for [**Reaction Commands**](../../commands/reactions.md)\*\*\*\*
 * Fixed a visual bug with the `listmanager` randomizer menu
-* Status URL is now [https://status.magic8.xyz/](https://status.magic8.xyz/), was [https://uptime.magic8.xyz/](https://uptime.magic8.xyz/) 
+* Status URL is now [**https://status.magic8.xyz/**](https://status.magic8.xyz/), was [**https://uptime.magic8.xyz/**](https://uptime.magic8.xyz/) ****
 * Advertisements are now run every 100 commands instead of 50
 * Updated `language` menus to make sub-commands more obvious
 * Prevent spam when deleting a `battle` message
