@@ -1,5 +1,5 @@
 ---
-description: Magic8 est un Discord Bot vérifié qui supporte plus de 700 serveurs
+description: Magic8 est un Discord Bot vérifié qui supporte plus de 750 serveurs
 ---
 
 # Bienvenue
