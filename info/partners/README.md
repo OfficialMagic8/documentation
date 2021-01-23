@@ -6,7 +6,7 @@ description: Magic8's amazing partners that offer great services or products.
 
 ![](../../.gitbook/assets/bremea.png)
 
-{% page-ref page="bremea-development.md" %}
+{% page-ref page="bremea.md" %}
 
 ![](../../.gitbook/assets/plexusmc.png)
 

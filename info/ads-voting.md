@@ -22,12 +22,12 @@ Voting helps promote Magic8 on the website they're on and attracts more users. W
 
 **Monthly Voting Rewards:**
 
-* 10x Votes
-  * Premium I for a month
 * 20x Votes
-  * 1x Premium II for one month
+  * 1x [**Premium I**](premium.md#single-package-usd-4-99-one-time-forever) for a month
 * 30x Votes
-  * 2x Premium II for two months
+  * 1x [**Premium II**](premium.md#triple-package-usd-8-99-one-time-forever) for one month
+* 50x Votes
+  * 2x [**Premium II**](premium.md#triple-package-usd-8-99-one-time-forever) for two months
 
 The server with the most votes at the end of the month gets 1x week of Premium I.
 

@@ -1,10 +1,12 @@
 ---
 description: >-
-  Magic8 has the ability to support unlimited languages. We ask for your support
-  in helping this!
+  Magic8 has the ability to support any language out there. We ask for your
+  support in helping this!
 ---
 
 # Languages
+
+## Magic8 Languages
 
 The developers of Magic8 have spent the past few weeks moving all messages into this repository. In addition, Magic8 directly pulls its languages from here and works pretty fast. Come join the project and help translate Magic8!
 
@@ -14,10 +16,11 @@ The developers of Magic8 have spent the past few weeks moving all messages into 
 
 ### Instructions
 
-* Create a fork of this repository or store the English file \([en.json](https://github.com/OfficialMagic8/Languages/blob/master/languages/en.json)\) file on your computer
-* Please make sure you are familiar with [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) format, [arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array), [objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects) and [strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
-* Please make sure you understand all of [Markdown](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-)
-* Translate the English to your fluently known language
+* Double check to make sure your language is present in the **/languages** folder
+* Create a fork of this repository and/or store the English file \([en.json](https://github.com/OfficialMagic8/Languages/blob/master/languages/en.json)\) file on your computer
+* Please make sure you are familiar with [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) syntax, [arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array), [objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects) and [strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+* Please make sure you understand [Markdown](https://www.markdownguide.org/cheat-sheet/)
+* Translate the English \(en.json\) to your fluently known language
 * Submit a pull request or send a file to be reviewed and then approved
 
 ### Rules/Guidelines
@@ -60,7 +63,7 @@ Here is a list of the global placeholders \(placeholders that are always the sam
 | {BOTNAME} | Magic8 |
 | {INVITE} | Support Server Invite |
 | {PREFIX} | Server Prefix |
-| {USER} | Message Author |
+| {USER} | @Message Author |
 | {USERNAME} | Username e.g. Fyrlex |
 
 If you do not understand a placeholder, please contact support.
