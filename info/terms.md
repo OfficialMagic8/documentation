@@ -1,19 +1,20 @@
 ---
 description: >-
-  Please take the time to read and follow our Terms of Service and also our
-  Privacy Policy. This may be updated at any time.
+  Please take the time to read and follow Magic8's Terms of Service and Privacy
+  Policy as you automatically follow them when Magic8 is in a shared server with
+  you.
 ---
 
 # Terms & Privacy
 
 ## Terms
 
-The Magic8 Discord Bot \("bot"\) is owned and developed by Fyrlex\#2740 and AlonsoAliaga\#0017 \("us"/"we"/"our"\). The following Terms & Conditions \("terms"\) are automatically followed when you use Magic8.
+The Magic8 Discord Bot \("bot"\) is owned and developed by Fyrlex\#2740 and AlonsoAliaga\#0017 \("us"/"we"/"our"\).
 
 * You will not use Magic8 in harmful ways against other members of your servers.
 * We may remove or ban the bot from your server at any time for what we consider inappropriate \(no racist or hate content for server names/images\).
 * We may remove or ban the bot from your server if you are abusing commands or deliberately trying to break a feature.
-* We may update your [server data](terms.md#privacy) at any time if there is an issue with our database or is preferred by the developers.
+* We may update your [**server data**](terms.md#privacy) at any time if there is an issue with our database or is preferred by the developers.
 * We have a log system of every command that is used, the author's and the server's name and ID are sent in this channel.
 * All donations to Magic8 through through any payment method are donations that cannot be refunded. Chargebacks ban Magic8 from any server you are in. This includes all Premium Packages too.
 * These terms, our Privacy statement, Premium Package contents and prices, may be changed at any time.

@@ -27,6 +27,7 @@ description: View the progress of specific projects or features for Magic8.
 
 {% hint style="danger" %}
 **Not Started**  
+- Prevent too long messages for `mcachievement`  
 - More options for `overwatch` profiles  
 - Fix a few unused settings  
 ****- More statistics to view for `hypixel` command  

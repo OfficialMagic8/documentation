@@ -8,24 +8,28 @@ description: >-
 
 The following list of updates are from the month of `January 2021`. To view other updates, open the **Change Log** tab on the left.
 
-## 1/24/2021 - Beta
+## 1/24/2021 - Live
 
 **New**
 
 * The dates in `language` menus now will attempt to grab the date format of the server's language
 * Certified on [**Blist**](https://blist.xyz/bot/484148705507934208)\*\*\*\*
-* Magic8 is official a part of [**BreMea Development**](http://bremea.com/) / [**Cube Club**](https://discord.gg/9jn6AFZxja)\*\*\*\*
+* Magic8 is officially a part of [**BreMea Development**](http://bremea.com/) / [**Cube Club**](https://discord.gg/9jn6AFZxja)\*\*\*\*
 * \*\*\*\*[**magic8.xyz**](https://magic8.xyz) properly redirects to the documentation
+* Statuses
 * `partners` command to view the new [**Partners**](../partners/) page
 * Updated `vote` command menu
 
 **Changes**
 
+* `impostor` is now an alias of `imposter`
+* Option to @mention a user for `imposter` to get their name in the image/title
+* The issue of username with spaces when using `imposter` was fixed
 * Typing `media` when there is no media set no longer requires `Manage Server` permission
 * Typing `help <command>` no longer requires `Manage Server` permission
 * Updated [**Terms & Privacy**](../terms.md)\*\*\*\*
 * Fix an issue with some webhooks
-* Fixed the main `settings` menu from not sending
+* Fixed an issue with the main `settings` menu not sending
 
 ## 1/16/2021 - Live
 
