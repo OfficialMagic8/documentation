@@ -8,11 +8,14 @@ description: >-
 
 The following list of updates are from the month of `January 2021`. To view other updates, open the **Change Log** tab on the left.
 
-## 1/22/2021 - Beta
+## 1/24/2021 - Beta
 
 **New**
 
-* \*\*\*\*[**magic8.xyz**](https://magiv8.xyz) properly redirects to the documentation
+* The dates in `language` menus now will attempt to grab the date format of the server's language
+* Certified on [**Blist**](https://blist.xyz/bot/484148705507934208)\*\*\*\*
+* Magic8 is official a part of [**BreMea Development**](http://bremea.com/) / [**Cube Club**](https://discord.gg/9jn6AFZxja)\*\*\*\*
+* \*\*\*\*[**magic8.xyz**](https://magic8.xyz) properly redirects to the documentation
 * `partners` command to view the new [**Partners**](../partners/) page
 * Updated `vote` command menu
 
