@@ -7,7 +7,7 @@ description: Magic8 is a verified Discord Bot supporting over 750 servers
 [**English**](https://docs.magic8.xyz/v/en/) **•** [**Español**](https://docs.magic8.xyz/v/es/) **•** [**Français**](https://docs.magic8.xyz/v/fr/)
 
 {% hint style="warning" %}
-We are in need of translators! Magic8 can support **any** language, come help out!
+We are in need of translators! Magic8 can support **any** language, come help out [**here**](info/languages.md)!
 {% endhint %}
 
 ![](https://top.gg/api/widget/484148705507934208.svg)

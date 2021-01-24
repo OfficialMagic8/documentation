@@ -12,31 +12,31 @@ The developers of Magic8 have spent the past few weeks moving all messages into 
 
 \*_Please note that we are **not** looking for complete translations! Although we'd greatly appreciate that, we aren't rushing you to complete the entire English file translated in one night._
 
-\*_Please also note that **English** is the most accurate and up to date language. It is up to other translators to match their languages with the English file. We have a **News Channel** in our_ [_Support Server_](https://magic8.xyz/discord) _that posts all updates of the **en.json** file._
+\*_Please also note that **English** is the most accurate and up to date language. It is up to other translators to match their languages with the English file. We have a **News Channel** in our_ [_**Support Server**_](https://magic8.xyz/discord) _that posts all updates of the **en.json** file._
 
 ### Instructions
 
 * Double check to make sure your language is present in the **/languages** folder
 * Create a fork of this repository and/or store the English file \([en.json](https://github.com/OfficialMagic8/Languages/blob/master/languages/en.json)\) file on your computer
-* Please make sure you are familiar with [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) syntax, [arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array), [objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects) and [strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
-* Please make sure you understand [Markdown](https://www.markdownguide.org/cheat-sheet/)
+* Please make sure you are familiar with [**JSON**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) syntax, [**arrays**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array), [**objects**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects) and [**strings**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)\*\*\*\*
+* Please make sure you understand [**Markdown**](https://www.markdownguide.org/cheat-sheet/)\*\*\*\*
 * Translate the English \(en.json\) to your fluently known language
 * Submit a pull request or send a file to be reviewed and then approved
 
 ### Rules/Guidelines
 
-* Follow [updates](https://github.com/OfficialMagic8/Languages/commits/master/languages/en.json) for the English file \([en.json](https://github.com/OfficialMagic8/Languages/blob/master/languages/en.json)\)
+* Follow [**updates**](https://github.com/OfficialMagic8/Languages/commits/master/languages/en.json) for the English file \([en.json](https://github.com/OfficialMagic8/Languages/blob/master/languages/en.json)\)
 * Do not edit the contents of the placeholders, "{EXAMPLE}", move them accordingly for grammar purposes
 * Do **NOT** use a translating service if you don't understand the language you are writing in \(don't pretend you know a language\)
 * If you are fluent in another language, you are permitted to use a translator only to help you understand the English, please correct any errors from the translator
-* If you feel that you may need some help translating, either contact support or use the recommended translator, [DeepL](https://www.deepl.com/en/translator)
+* If you feel that you may need some help translating, either contact support or use the recommended translator, [**DeepL**](https://www.deepl.com/en/translator)\*\*\*\*
 * Please do **NOT** change the meanings of translations
 * If a user reports a translation and we discover that it is in fact a misleading/irrelevant translation, you will be held responsible and punished 
 
 ### Possible Rewards
 
-* Language Contributor Role in our [Support Server](https://magic8.xyz/discord)
-* Free [Triple Package](https://docs.magic8.xyz/info/premium#triple-package-usd-8-99-one-time-forever)
+* Language Contributor Role in our [**Support Server**](https://magic8.xyz/discord)\*\*\*\*
+* Free [**Triple Package**](https://docs.magic8.xyz/info/premium#triple-package-usd-8-99-one-time-forever)\*\*\*\*
 * Advertisement on the Magic8 bot or in the \#sponsors channel
 * Complete credit for the language
 * Utmost respect from the developers
