@@ -50,7 +50,7 @@ m! Help
 ```
 
 {% hint style="success" %}
-All commands in every category **except** Information and Administrator can be toggled using: `m!settings toggle <command>`
+All commands in every category **except** Information and Administrator can be toggled using: `m!toggle <command>`
 {% endhint %}
 
 {% hint style="warning" %}
