@@ -20,9 +20,10 @@
 
 * [Premium Packages](info/premium.md)
 * [Languages](info/languages.md)
-* [Partners](info/partners/README.md)
+* [Partners & Affiliates](info/partners/README.md)
   * [BreMea Development](info/partners/bremea.md)
   * [PlexusMC - Minecraft Java 1.16](info/partners/plexusmc.md)
+  * [Hunter Bot](info/partners/hunter-bot.md)
   * [Shopery](info/partners/shopery.md)
   * [Something.Host](info/partners/somethinghost.md)
 * [Change Log - February 2021](info/updates/README.md)

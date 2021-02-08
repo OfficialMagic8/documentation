@@ -1,7 +1,7 @@
 ---
 description: >-
-  Free and Fast Discord Bot Hosting For Developers | Other Cheap Hosting
-  Services Available
+  Low Price and Fast Discord Bot Hosting For Developers | Other Hosting Services
+  Available
 ---
 
 # Something.Host
@@ -162,7 +162,7 @@ description: >-
 
 ### [Minecraft Server Hosting](https://cp.something.host/order/products/minecraft)
 
-| Nams | Specs | Price |
+| Name | Specs | Price |
 | :--- | :--- | :--- |
 | Minecraft Dirt 0.5GB | **RAM:** 512 MB | **1.99 €** |
 | Minecraft Grass 1GB | **RAM:** 1024 MB | **3.99 €** |
@@ -177,7 +177,6 @@ description: >-
 
 | Name | Specs | Price |
 | :--- | :--- | :--- |
-| Free 24/7 Discord Bot | **RAM:** 64 MB | **FREE** |
 | Discord 0.5GB | **RAM:** 512 MB | **1.49 €** |
 | Discord 1GB | **RAM:** 1024 MB | **2.99 €** |
 | Discord 1.5GB | **RAM:** 1536 MB | **4.49 €** |

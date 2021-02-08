@@ -19,7 +19,7 @@ description: Useful information relating to Magic8 or your server
       <td style="text-align:left">
         <p><b>Aliases:</b>  <code>bi</code>
         </p>
-        <p><b>Description:</b> Magic8 Information</p>
+        <p><b>Description:</b> Magic8 information and statistics</p>
       </td>
     </tr>
     <tr>
@@ -37,7 +37,7 @@ description: Useful information relating to Magic8 or your server
       <td style="text-align:left">
         <p><b>Aliases:</b>  <code>si</code>
         </p>
-        <p><b>Desciption:</b> Server Information</p>
+        <p><b>Description:</b> Discord server information and statistics</p>
       </td>
     </tr>
     <tr>
@@ -47,6 +47,15 @@ description: Useful information relating to Magic8 or your server
         <p><b>Aliases:</b>  <code>inv</code>
         </p>
         <p><b>Description:</b> Magic8 invite URL</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">partners</td>
+      <td style="text-align:left">[partner/affiliate]</td>
+      <td style="text-align:left">
+        <p><b>Aliases:</b>  <code>affiliates</code>
+        </p>
+        <p><b>Description:</b> View all partners &amp; affiliates or a specific one</p>
       </td>
     </tr>
     <tr>
@@ -64,10 +73,8 @@ description: Useful information relating to Magic8 or your server
       <td style="text-align:left">
         <p><b>Aliases:</b>  <code>daily</code>
         </p>
-        <p><b>Description:</b> Magic8&apos;s summary of today&apos;s statistics from
-          <a
-          href="https://statcord.com/bot/484148705507934208">Statcord</a>
-        </p>
+        <p><b>Description:</b> Magic8&apos;s summary of today&apos;s current statistics
+          from <a href="https://statcord.com/bot/484148705507934208"><b>Statcord</b></a>&lt;b&gt;&lt;/b&gt;</p>
       </td>
     </tr>
     <tr>

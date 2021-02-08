@@ -2,7 +2,7 @@
 description: Magic8's amazing partners that offer great services or products.
 ---
 
-# Partners
+# Partners & Affiliates
 
 ![](../../.gitbook/assets/bremea.png)
 
@@ -11,6 +11,10 @@ description: Magic8's amazing partners that offer great services or products.
 ![](../../.gitbook/assets/plexusmc.png)
 
 {% page-ref page="plexusmc.md" %}
+
+![](../../.gitbook/assets/hunterbot.png)
+
+{% page-ref page="hunter-bot.md" %}
 
 ![](../../.gitbook/assets/shopery.png)
 
