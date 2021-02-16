@@ -8,6 +8,21 @@ description: >-
 
 The following list of updates are from the month of `February 2021`. To view other updates, open the **Change Log** tab on the left.
 
+## 2/16/2021 - Beta
+
+**New**
+
+* Added messages for `prefix` in [**en.json**](https://github.com/OfficialMagic8/Languages/blob/master/languages/en.json)\*\*\*\*
+
+**Changes**
+
+* Fixed an issue with a message not responding for `connectfour`
+* Cleaned up a lot of code
+* Fixed an issue for GrandMasters rank for `overwatch`
+* Fixed a major caching/performance issue
+* Prevent @mentions being used for a prefix
+* Removed all automatic advertisements
+
 ## 2/7/2021 - Live
 
 **New**

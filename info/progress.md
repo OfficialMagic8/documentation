@@ -15,7 +15,7 @@ description: View the progress of specific projects or features for Magic8.
 
 {% hint style="info" %}
 **In Progress**  
-- Automatic voting rewards and webhooks  
+- Automatic voting rewards and improved webhooks  
 - Finish adding `settings` and `toggle`to [en.json](https://github.com/OfficialMagic8/languages/blob/master/languages/en.json)  
 - Clean up all language files  
 - Update other language files to match changes in [en.json](https://github.com/OfficialMagic8/languages/blob/master/languages/en.json)  

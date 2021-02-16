@@ -32,7 +32,7 @@
   * [Change Log - November 2020](info/updates/nov2020.md)
   * [Change Log - October 2020](info/updates/oct2020.md)
 * [Progress Check](info/progress.md)
+* [Voting](info/ads-voting.md)
 * [Contact Support](info/contact.md)
-* [Advertisements and Voting](info/ads-voting.md)
 * [Terms & Privacy](info/terms.md)
 
