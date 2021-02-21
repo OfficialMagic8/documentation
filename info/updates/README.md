@@ -8,7 +8,7 @@ description: >-
 
 The following list of updates are from the month of `February 2021`. To view other updates, open the **Change Log** tab on the left.
 
-## 2/16/2021 - Beta
+## 2/21/2021 - Beta
 
 **New**
 
@@ -16,6 +16,7 @@ The following list of updates are from the month of `February 2021`. To view oth
 
 **Changes**
 
+* Fixed a minor issue with `say`
 * Fixed an issue with a message not responding for `connectfour`
 * Cleaned up a lot of code
 * Fixed an issue for GrandMasters rank for `overwatch`
