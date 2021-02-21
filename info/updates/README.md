@@ -8,7 +8,7 @@ description: >-
 
 The following list of updates are from the month of `February 2021`. To view other updates, open the **Change Log** tab on the left.
 
-## 2/21/2021 - Beta
+## 2/21/2021 - Live
 
 **New**
 
