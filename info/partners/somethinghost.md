@@ -41,7 +41,7 @@ description: >-
         <p><b>vCPU Cores:</b> 2</p>
         <p><b>Monthly Traffic:</b> 20 TB</p>
       </td>
-      <td style="text-align:left"><b>5.24 &#x20AC;</b>
+      <td style="text-align:left"><b>5.49 &#x20AC;</b>
       </td>
     </tr>
     <tr>
@@ -52,7 +52,7 @@ description: >-
         <p><b>vCPU Cores:</b> 3</p>
         <p><b>Monthly Traffic:</b> 20 TB</p>
       </td>
-      <td style="text-align:left"><b>10.35 &#x20AC;</b>
+      <td style="text-align:left"><b>10.99 &#x20AC;</b>
       </td>
     </tr>
     <tr>
@@ -63,7 +63,7 @@ description: >-
         <p><b>vCPU Cores:</b> 4</p>
         <p><b>Monthly Traffic:</b> 20 TB</p>
       </td>
-      <td style="text-align:left"><b>18.60 &#x20AC;</b>
+      <td style="text-align:left"><b>19.99 &#x20AC;</b>
       </td>
     </tr>
     <tr>
@@ -74,7 +74,7 @@ description: >-
         <p><b>vCPU Cores:</b> 8</p>
         <p><b>Monthly Traffic:</b> 20 TB</p>
       </td>
-      <td style="text-align:left"><b>34.35 &#x20AC;</b>
+      <td style="text-align:left"><b>35.99 &#x20AC;</b>
       </td>
     </tr>
     <tr>
@@ -85,7 +85,7 @@ description: >-
         <p><b>vCPU Cores:</b> 16</p>
         <p><b>Monthly Traffic:</b> 20 TB</p>
       </td>
-      <td style="text-align:left"><b>74.85 &#x20AC;</b>
+      <td style="text-align:left"><b>79.99 &#x20AC;</b>
       </td>
     </tr>
   </tbody>
@@ -110,7 +110,7 @@ description: >-
         <p><b>vCPU Cores:</b> 1</p>
         <p><b>Monthly Traffic:</b> 20 TB</p>
       </td>
-      <td style="text-align:left"><b>3.74 &#x20AC;</b>
+      <td style="text-align:left"><b>3.99 &#x20AC;</b>
       </td>
     </tr>
     <tr>
@@ -121,7 +121,7 @@ description: >-
         <p><b>vCPU Cores:</b> 2</p>
         <p><b>Monthly Traffic:</b> 20 TB</p>
       </td>
-      <td style="text-align:left"><b>7.35 &#x20AC;</b>
+      <td style="text-align:left"><b>7.99 &#x20AC;</b>
       </td>
     </tr>
     <tr>
@@ -132,7 +132,7 @@ description: >-
         <p><b>vCPU Cores:</b> 2</p>
         <p><b>Monthly Traffic:</b> 20 TB</p>
       </td>
-      <td style="text-align:left"><b>13.35 &#x20AC;</b>
+      <td style="text-align:left"><b>14.49 &#x20AC;</b>
       </td>
     </tr>
     <tr>
@@ -143,7 +143,7 @@ description: >-
         <p><b>vCPU Cores:</b> 8</p>
         <p><b>Monthly Traffic:</b> 20 TB</p>
       </td>
-      <td style="text-align:left"><b>23.85 &#x20AC;</b>
+      <td style="text-align:left"><b>25.49 &#x20AC;</b>
       </td>
     </tr>
     <tr>
@@ -154,7 +154,7 @@ description: >-
         <p><b>vCPU Cores:</b> 16</p>
         <p><b>Monthly Traffic:</b> 20 TB</p>
       </td>
-      <td style="text-align:left"><b>44.85 &#x20AC;</b>
+      <td style="text-align:left"><b>47.99 &#x20AC;</b>
       </td>
     </tr>
   </tbody>
@@ -164,14 +164,14 @@ description: >-
 
 | Name | Specs | Price |
 | :--- | :--- | :--- |
-| Minecraft Dirt 0.5GB | **RAM:** 512 MB | **1.99 €** |
-| Minecraft Grass 1GB | **RAM:** 1024 MB | **3.99 €** |
-| Minecraft Stone 1.5GB | **RAM:** 1536 MB | **5.99 €** |
-| Minecraft Coal 2GB | **RAM:** 2048 MB | **7.99 €** |
-| Minecraft Iron 2.5GB | **RAM:** 2560 MB | **9.99 €** |
-| Minecraft Gold 3GB | **RAM:** 3072 MB | **11.99 €** |
-| Minecraft Lapis 3.5GB | **RAM:** 3584 MB | **13.99 €** |
-| Minecraft Diamond 4GB | **RAM:** 4096 MB | **15.99 €** |
+| Dirt 1GB | **RAM:** 1024 MB | **4.99 €** |
+| Grass 2GB | **RAM:** 2048 MB | **8.99 €** |
+| Stone 3GB | **RAM:** 3072 MB | **12.99 €** |
+| Coal 4GB | **RAM:** 4096 MB | **16.99 €** |
+| Iron 5GB | **RAM:** 5120 MB | **20.99 €** |
+| Lapis 6GB | **RAM:** 6144 MB | **24.99 €** |
+| Gold 8GB | **RAM:** 8192 MB | **32.99 €** |
+| Diamond 10GB | **RAM:** 10429MB | **39.99 €** |
 
 ### [Discord Bot Hosting](https://cp.something.host/order/products/discord)
 
