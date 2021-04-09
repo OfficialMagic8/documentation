@@ -8,7 +8,7 @@ description: >-
 
 The following list of updates are from the month of `April 2021`. To view other updates, open the **Change Log** tab on the left.
 
-## 4/6 - Development
+## 4/9 - Beta
 
 **New**
 
@@ -19,6 +19,7 @@ The following list of updates are from the month of `April 2021`. To view other 
 * Fixed various emojis that were invalid
 * Fixed an issue with Auto Voice Channels
 * Increased size of Old image in `fakeping`
+* Fixed an issue with `hug` where it would always say "undefined"
 
 
 
